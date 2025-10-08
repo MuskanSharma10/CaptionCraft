@@ -1,5 +1,5 @@
 {
-  "name": "e-comm",
+  "name": "CaptionCraft",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deeputkarsh007/e-comm.git"
+    "url": "git+https://github.com/MuskanSharma10/CaptionCraft.git"
   },
-  "author": "Utkarsh Deep",
+  "author": "Muskan Sharma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deeputkarsh007/e-comm/issues"
+    "url": "https://github.com/MuskanSharma10/CaptionCraft.git"
   },
-  "homepage": "https://github.com/deeputkarsh007/e-comm#readme",
+  "homepage": "https://github.com/MuskanSharma10/CaptionCraft.git",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",

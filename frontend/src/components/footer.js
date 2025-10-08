@@ -23,18 +23,18 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/deeputkarsh007/" target="_blank">
+            <a href="https://www.instagram.com/Oddetsharma9/" target="_blank">
               <InstagramIcon />
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/deeputkarsh007" target="_blank">
+            <a href="https://twitter.com/Muskansharma98" target="_blank">
               <TwitterIcon />
             </a>
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/utkarsh-deep-209472228/"
+              href="https://www.linkedin.com/in/https://www.linkedin.com/in/muskan-sharma-4057a1280/"
               target="_blank"
             >
               <LinkedInIcon />
@@ -46,11 +46,11 @@ const Footer = () => {
         <ul className="address">
           <li>
             <EmailIcon className="icon" />
-            deeputkarsh007@gmail.com
+            muskanshr7970@gmail.com
           </li>
           <li>
             <BusinessIcon className="icon" />
-            Dhanbad, Jharkhand
+            Patna, Bihar
           </li>
         </ul>
       </div>
